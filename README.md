@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevlynZion
 - 👀 I’m interested in C#
-- 🌱 I’m currently learning Powershel Cmdlets
+- 🌱 I’m currently learning C# Socket Programming
 - 💞️ I’m looking to collaborate on ... 👀 still looking
 - 📫 How to reach me ...
 
